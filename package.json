@@ -1,0 +1,15 @@
+{
+  "name": "sf_test",
+  "version": "1.0.0",
+  "description": "DevOps homework b427",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Semyonchik/SF.git"
+  },
+  "author": "teCemka",
+  "license": "ISC"
+}
