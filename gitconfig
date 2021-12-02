@@ -1,0 +1,7 @@
+[user]
+	name = DevOps
+	email = kolesnikov.nn@yandex.ru
+[push]
+	default = simple
+[alias]
+	history = log --graph
